@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="" />
+        <datasource-mapping>
+          <factory-entry name="CinemaAPI" value="2b99aa09-2f2e-4158-bcdf-39b05c2b296b" />
+          <factory-entry name="Entities" value="2b99aa09-2f2e-4158-bcdf-39b05c2b296b" />
+          <factory-entry name="com.dts_CinemaAPI_jar_1.0-SNAPSHOTPU" value="2b99aa09-2f2e-4158-bcdf-39b05c2b296b" />
+          <factory-entry name="noname-a.xml@0" value="2b99aa09-2f2e-4158-bcdf-39b05c2b296b" />
+        </datasource-mapping>
+        <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/src/main/resources/META-INF/persistence.xml" />
+      </configuration>
+    </facet>
+  </component>
+</module>
